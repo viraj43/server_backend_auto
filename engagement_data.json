@@ -1,0 +1,461 @@
+{
+    "United States": {
+        "avgEngagementTime": 24.87714056693143
+    },
+    "India": {
+        "avgEngagementTime": 66.28478964401295
+    },
+    "Ireland": {
+        "avgEngagementTime": 28.579702845630823
+    },
+    "Singapore": {
+        "avgEngagementTime": 28.764689655172415
+    },
+    "Netherlands": {
+        "avgEngagementTime": 29.52588957055215
+    },
+    "Canada": {
+        "avgEngagementTime": 24.26986688180718
+    },
+    "United Kingdom": {
+        "avgEngagementTime": 25.688336520076483
+    },
+    "Australia": {
+        "avgEngagementTime": 22.80902989627822
+    },
+    "United Arab Emirates": {
+        "avgEngagementTime": 21.718875502008032
+    },
+    "South Africa": {
+        "avgEngagementTime": 23.114173228346456
+    },
+    "Germany": {
+        "avgEngagementTime": 22.755852842809364
+    },
+    "France": {
+        "avgEngagementTime": 31.913494809688583
+    },
+    "Switzerland": {
+        "avgEngagementTime": 22.795321637426902
+    },
+    "Japan": {
+        "avgEngagementTime": 30.826666666666668
+    },
+    "Indonesia": {
+        "avgEngagementTime": 32.683098591549296
+    },
+    "Bangladesh": {
+        "avgEngagementTime": 42.72
+    },
+    "Pakistan": {
+        "avgEngagementTime": 33.73148148148148
+    },
+    "Vietnam": {
+        "avgEngagementTime": 36.015151515151516
+    },
+    "Poland": {
+        "avgEngagementTime": 59.5948275862069
+    },
+    "Malaysia": {
+        "avgEngagementTime": 42.38823529411765
+    },
+    "Philippines": {
+        "avgEngagementTime": 81.61904761904762
+    },
+    "Russia": {
+        "avgEngagementTime": 31.028985507246375
+    },
+    "Sweden": {
+        "avgEngagementTime": 47.48192771084337
+    },
+    "Hong Kong": {
+        "avgEngagementTime": 28.96969696969697
+    },
+    "Norway": {
+        "avgEngagementTime": 22.43076923076923
+    },
+    "Spain": {
+        "avgEngagementTime": 40.693548387096776
+    },
+    "Brazil": {
+        "avgEngagementTime": 36.25925925925926
+    },
+    "Italy": {
+        "avgEngagementTime": 42.48076923076923
+    },
+    "Belgium": {
+        "avgEngagementTime": 87.36666666666666
+    },
+    "Egypt": {
+        "avgEngagementTime": 34.564516129032256
+    },
+    "Thailand": {
+        "avgEngagementTime": 44.75675675675676
+    },
+    "China": {
+        "avgEngagementTime": 52.327586206896555
+    },
+    "Chile": {
+        "avgEngagementTime": 19.25
+    },
+    "Ukraine": {
+        "avgEngagementTime": 45.5
+    },
+    "Qatar": {
+        "avgEngagementTime": 14.425531914893616
+    },
+    "Türkiye": {
+        "avgEngagementTime": 27.90909090909091
+    },
+    "New Zealand": {
+        "avgEngagementTime": 96.69767441860465
+    },
+    "Mexico": {
+        "avgEngagementTime": 44.10526315789474
+    },
+    "Nepal": {
+        "avgEngagementTime": 16.91304347826087
+    },
+    "Romania": {
+        "avgEngagementTime": 39.74418604651163
+    },
+    "Saudi Arabia": {
+        "avgEngagementTime": 11.453125
+    },
+    "Sri Lanka": {
+        "avgEngagementTime": 44.4375
+    },
+    "Argentina": {
+        "avgEngagementTime": 49.208333333333336
+    },
+    "Colombia": {
+        "avgEngagementTime": 24.24
+    },
+    "Israel": {
+        "avgEngagementTime": 40.241379310344826
+    },
+    "(not set)": {
+        "avgEngagementTime": 1.2613636363636365
+    },
+    "Austria": {
+        "avgEngagementTime": 32.1
+    },
+    "Denmark": {
+        "avgEngagementTime": 33.48148148148148
+    },
+    "Czechia": {
+        "avgEngagementTime": 31.714285714285715
+    },
+    "South Korea": {
+        "avgEngagementTime": 36.02272727272727
+    },
+    "Nigeria": {
+        "avgEngagementTime": 26.404761904761905
+    },
+    "Portugal": {
+        "avgEngagementTime": 31.785714285714285
+    },
+    "Taiwan": {
+        "avgEngagementTime": 52.0625
+    },
+    "Finland": {
+        "avgEngagementTime": 36.791666666666664
+    },
+    "Kenya": {
+        "avgEngagementTime": 54
+    },
+    "Bulgaria": {
+        "avgEngagementTime": 43.1578947368421
+    },
+    "Greece": {
+        "avgEngagementTime": 36.75
+    },
+    "Serbia": {
+        "avgEngagementTime": 93.94736842105263
+    },
+    "Tunisia": {
+        "avgEngagementTime": 40.27272727272727
+    },
+    "Peru": {
+        "avgEngagementTime": 62.758620689655174
+    },
+    "Armenia": {
+        "avgEngagementTime": 20.818181818181817
+    },
+    "Belarus": {
+        "avgEngagementTime": 11
+    },
+    "Lithuania": {
+        "avgEngagementTime": 151.66666666666666
+    },
+    "Morocco": {
+        "avgEngagementTime": 22.428571428571427
+    },
+    "Bolivia": {
+        "avgEngagementTime": 27.8
+    },
+    "Kazakhstan": {
+        "avgEngagementTime": 107.9
+    },
+    "Estonia": {
+        "avgEngagementTime": 71.5
+    },
+    "Georgia": {
+        "avgEngagementTime": 54.5
+    },
+    "Cyprus": {
+        "avgEngagementTime": 22.25
+    },
+    "Jordan": {
+        "avgEngagementTime": 8.75
+    },
+    "Oman": {
+        "avgEngagementTime": 28.5
+    },
+    "Cambodia": {
+        "avgEngagementTime": 231
+    },
+    "Ecuador": {
+        "avgEngagementTime": 30.454545454545453
+    },
+    "Moldova": {
+        "avgEngagementTime": 72
+    },
+    "Uruguay": {
+        "avgEngagementTime": 58.333333333333336
+    },
+    "Azerbaijan": {
+        "avgEngagementTime": 31.6
+    },
+    "Croatia": {
+        "avgEngagementTime": 5.333333333333333
+    },
+    "Ethiopia": {
+        "avgEngagementTime": 38.333333333333336
+    },
+    "Hungary": {
+        "avgEngagementTime": 44.52173913043478
+    },
+    "Kuwait": {
+        "avgEngagementTime": 5
+    },
+    "Lebanon": {
+        "avgEngagementTime": 19.5
+    },
+    "Lesotho": {
+        "avgEngagementTime": 277
+    },
+    "Slovakia": {
+        "avgEngagementTime": 65.75
+    },
+    "Slovenia": {
+        "avgEngagementTime": 24.333333333333332
+    },
+    "Uzbekistan": {
+        "avgEngagementTime": 74.125
+    },
+    "Iran": {
+        "avgEngagementTime": 3.7142857142857144
+    },
+    "Latvia": {
+        "avgEngagementTime": 21.714285714285715
+    },
+    "Bahrain": {
+        "avgEngagementTime": 117
+    },
+    "Cameroon": {
+        "avgEngagementTime": 22.5
+    },
+    "Venezuela": {
+        "avgEngagementTime": 234.5
+    },
+    "Bosnia & Herzegovina": {
+        "avgEngagementTime": 4.75
+    },
+    "Costa Rica": {
+        "avgEngagementTime": 55.8
+    },
+    "Dominican Republic": {
+        "avgEngagementTime": 14.75
+    },
+    "Iraq": {
+        "avgEngagementTime": 0.5
+    },
+    "Luxembourg": {
+        "avgEngagementTime": 10.75
+    },
+    "Senegal": {
+        "avgEngagementTime": 0
+    },
+    "Yemen": {
+        "avgEngagementTime": 566
+    },
+    "Brunei": {
+        "avgEngagementTime": 1
+    },
+    "El Salvador": {
+        "avgEngagementTime": 0
+    },
+    "Ghana": {
+        "avgEngagementTime": 50.888888888888886
+    },
+    "Jamaica": {
+        "avgEngagementTime": 334.5
+    },
+    "Mongolia": {
+        "avgEngagementTime": 3
+    },
+    "Myanmar (Burma)": {
+        "avgEngagementTime": 2.6666666666666665
+    },
+    "North Macedonia": {
+        "avgEngagementTime": 52
+    },
+    "Palestine": {
+        "avgEngagementTime": 5
+    },
+    "Papua New Guinea": {
+        "avgEngagementTime": 0
+    },
+    "Puerto Rico": {
+        "avgEngagementTime": 21
+    },
+    "Rwanda": {
+        "avgEngagementTime": 68
+    },
+    "Tanzania": {
+        "avgEngagementTime": 95.66666666666667
+    },
+    "": {
+        "avgEngagementTime": 8
+    },
+    "Afghanistan": {
+        "avgEngagementTime": 0
+    },
+    "Albania": {
+        "avgEngagementTime": 39.75
+    },
+    "Algeria": {
+        "avgEngagementTime": 81.33333333333333
+    },
+    "American Samoa": {
+        "avgEngagementTime": 49
+    },
+    "Benin": {
+        "avgEngagementTime": 0
+    },
+    "Congo - Kinshasa": {
+        "avgEngagementTime": 195
+    },
+    "Côte d’Ivoire": {
+        "avgEngagementTime": 0
+    },
+    "Guatemala": {
+        "avgEngagementTime": 11
+    },
+    "Iceland": {
+        "avgEngagementTime": 15
+    },
+    "Kyrgyzstan": {
+        "avgEngagementTime": 63
+    },
+    "Laos": {
+        "avgEngagementTime": 0
+    },
+    "Libya": {
+        "avgEngagementTime": 76
+    },
+    "Malta": {
+        "avgEngagementTime": 34
+    },
+    "Mauritius": {
+        "avgEngagementTime": 24.428571428571427
+    },
+    "Montenegro": {
+        "avgEngagementTime": 1
+    },
+    "Mozambique": {
+        "avgEngagementTime": 0
+    },
+    "Paraguay": {
+        "avgEngagementTime": 67
+    },
+    "Somalia": {
+        "avgEngagementTime": 69
+    },
+    "Togo": {
+        "avgEngagementTime": 20
+    },
+    "Uganda": {
+        "avgEngagementTime": 121.5
+    },
+    "Western Sahara": {
+        "avgEngagementTime": 3
+    },
+    "Zimbabwe": {
+        "avgEngagementTime": 0
+    },
+    "Honduras": {
+        "avgEngagementTime": 0
+    },
+    "Macao": {
+        "avgEngagementTime": 40
+    },
+    "Zambia": {
+        "avgEngagementTime": 26
+    },
+    "Antigua & Barbuda": {
+        "avgEngagementTime": 606
+    },
+    "Cuba": {
+        "avgEngagementTime": 13
+    },
+    "Fiji": {
+        "avgEngagementTime": 86.5
+    },
+    "Jersey": {
+        "avgEngagementTime": 45
+    },
+    "Isle of Man": {
+        "avgEngagementTime": 93
+    },
+    "Kosovo": {
+        "avgEngagementTime": 37.5
+    },
+    "Namibia": {
+        "avgEngagementTime": 25.285714285714285
+    },
+    "Trinidad & Tobago": {
+        "avgEngagementTime": 91
+    },
+    "Botswana": {
+        "avgEngagementTime": 28.5
+    },
+    "Gibraltar": {
+        "avgEngagementTime": 281.5
+    },
+    "Syria": {
+        "avgEngagementTime": 4.5
+    },
+    "Eswatini": {
+        "avgEngagementTime": 515
+    },
+    "Sudan": {
+        "avgEngagementTime": 0
+    },
+    "Vanuatu": {
+        "avgEngagementTime": 342.5
+    },
+    "Barbados": {
+        "avgEngagementTime": 0
+    },
+    "Faroe Islands": {
+        "avgEngagementTime": 0
+    },
+    "Madagascar": {
+        "avgEngagementTime": 9
+    },
+    "St. Lucia": {
+        "avgEngagementTime": 7
+    }
+}
