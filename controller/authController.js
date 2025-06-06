@@ -28,7 +28,7 @@ export const login = async (req, res) => {
 export const logout = (req, res) => {
     try {
         // Clear the token from the cookie by setting an expired date
-        res.clearCookie('token'); // Assuming the token is stored in a cookie named 'token'
+        res.clearCookie('jwt'); // Assuming the token is stored in a cookie named 'token'
 
         res.status(200).json({ message: 'Logged out successfully' });
     } catch (error) {
